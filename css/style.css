@@ -1,7 +1,4 @@
-.imagem {  
-  margin-top: 120px;
-  width: 300px;
-  height: 300px;
+.imagem {      
   border-radius: 3px;
   -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
