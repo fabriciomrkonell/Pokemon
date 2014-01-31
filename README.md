@@ -1,4 +1,4 @@
 Pokemom
 =======
 
-Olha, a princípio é só um teste.
+Primeiro Projeto com o GitHub.
